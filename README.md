@@ -1,0 +1,1 @@
+This is a simple website I created to practive the html I learned from The Odine Project.
